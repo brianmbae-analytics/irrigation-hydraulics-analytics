@@ -1,0 +1,17 @@
+# Project 2 — Irrigation Hydraulic Performance
+- date: measurement date
+- scheme: irrigation scheme
+- block: scheme block
+- chainage_m: distance along pipeline
+- elevation_m: ground elevation
+- pipe_diameter_mm: internal/nominal diameter
+- pipe_material: pipe material
+- pipe_length_m: modeled section length
+- flow_lps: measured flow
+- expected_pressure_m: synthetic theoretical/reference pressure
+- measured_pressure_m: field pressure
+- number_of_offtakes: active outlets
+- irrigation_duration_hr: irrigation duration
+- pressure_difference_m: measured minus expected pressure
+- estimated_head_loss_m: positive pressure deficit
+- hydraulic_status: simplified classification
